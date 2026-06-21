@@ -1,0 +1,95 @@
+header{
+    background-color: #2e8b57;
+    color: white;
+    padding: 10px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+#titulo {
+    text-align: center;       
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    background-color: #3E6259;
+    color: white;
+    padding: 25px;
+}
+
+#reservacion{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+
+}
+#subtitulo {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    color:#442220
+}
+
+
+header{
+    background-color: #2e8b57;
+    color: white;
+    padding: 20px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;                                 
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+input, textarea,button{
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: #3E6259;;
+    color: white;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #FEFCFB;
+}
+
+#historia{
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#galeria{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px;
+}
+
+.menu{
+    padding: 10px;
+    margin-left: 800px;
+
+}
